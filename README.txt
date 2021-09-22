@@ -1,1 +1,3 @@
-This is a simple javascript project
+This is a simple website where you can play rock paper scissor.
+
+![](ProductionScreen/Capture.png)
